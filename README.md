@@ -13,3 +13,4 @@ An AI-powered real estate platform that predicts house prices, analyzes trends, 
 - Python
 - Pandas, Scikit-learn, XGBoost
 - Streamlit
+- Plotly
